@@ -99,4 +99,8 @@ REST_FRAMEWORK = {
     ],
 }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> a85cb399184168cd13bce3b023387ea65c323d22
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
